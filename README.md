@@ -26,10 +26,10 @@ PICKUP BUCKET is a Python-based website and network diagnostics toolkit designed
 Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Curlgit/Pickup_Bucket.git
 ```
 ```bash
-cd 
+cd Pickup_Bucket
 ```
 ```bash
 bash install.sh
@@ -49,15 +49,11 @@ Generated reports are saved in:
 pickup_bucket_reports/
 ```
 
-## ⚠️ Disclaimer
-
+**⚠️ Disclaimer
 This tool is provided for **educational and entertainment purposes only**.
-
 The developer is **not responsible for any missing features, errors, bugs, data loss, damages, misuse, or consequences** arising from the use of this tool, to the fullest extent permitted by applicable law.
-
 This tool is provided **"AS IS"**, without any guarantee of accuracy, reliability, or fitness for a particular purpose.
-
-Use this tool only on websites, networks, and systems you own or have explicit permission to test. You are responsible for complying with applicable laws and third-party service policies.
+Use this tool only on websites, networks, and systems you own or have explicit permission to test. You are responsible for complying with applicable laws and third-party service policies**
 
 By using this tool, you accept responsibility for your own actions.
 ## 📸 Screenshot
